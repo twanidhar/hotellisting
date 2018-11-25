@@ -1,4 +1,4 @@
-# hotellisting
+# hotel listing
 
 
 	Build a database called hotel_listing using MySQL. 
